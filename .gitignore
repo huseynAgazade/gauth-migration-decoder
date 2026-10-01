@@ -1,0 +1,12 @@
+# Never commit real exports or secrets
+*.png
+*.jpg
+*.jpeg
+*.csv
+export*.txt
+uris.txt
+
+__pycache__/
+*.pyc
+venv/
+.venv/
